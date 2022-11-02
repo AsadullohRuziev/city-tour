@@ -116,6 +116,10 @@ header {
  width: 70px;
 }
 
+.cityLogo{
+  width: 100%;
+}
+
 /* MAIN NAV -------- */
 
 .main-nav a {
