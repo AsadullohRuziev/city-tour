@@ -1,3 +1,18 @@
+Made with 
+
+![reactjs shield](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+# City Tours App
+
+[![CodeFactor](https://www.codefactor.io/repository/github/codelikeagirl29/city-tours/badge)](https://www.codefactor.io/repository/github/codelikeagirl29/city-tours)
+
+Made by <span style="color:red">Asadulloh Ruziev</span> to demonstrate my understanding of Reactjs. :) I've created a card-like theme that presents the user with a list of cities and a description of the city. Theres also an Attractions slide that shows user's a list of attractions for each city.
+
+---
+![ScreenShot Tool -20220130114736](https://user-images.githubusercontent.com/25946305/151708873-20604c0e-af29-497d-aedf-d880021e031b.png)
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +83,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# shop
